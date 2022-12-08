@@ -23,6 +23,7 @@ sudo apt-get install git
 sudo apt-get install nginx
 sudo apt-get install -y net-tools
 
+sudo apt-get remove docker docker-engine docker.io containerd runc
 sudo apt-get install \
     ca-certificates \
     curl \
