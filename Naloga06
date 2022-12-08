@@ -4,6 +4,7 @@ mkdir Downloads
 mkdir Pictures
 mkdir Videos
 mkdir Music
+mkdir 3D-Objects
 
 for mapa in mapa1 mapa2 mapa3 mapa4 mapa5
 do
